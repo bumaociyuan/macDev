@@ -1,3 +1,3 @@
 # macDev
 
-[wikis](https://github.com/bumaociyuan/macDev/wiki) 
+[wiki](https://github.com/bumaociyuan/macDev/wiki) 
